@@ -28,4 +28,5 @@ The framework integrates several advanced AI techniques applied to quantum physi
 ### Authors
 * **Emanuele Colecchia** (ID: 276527)
 * **Pierluigi Trocini** (ID: 280977)
-* **Date**: January 30, 2026
+---
+**Date**: January 30, 2026
